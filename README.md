@@ -1,6 +1,6 @@
 # 📊 Tableau Dashboard Project – 2RU Institutional Insights
 
-This project showcases a Tableau dashboard developed by Group 99 to visualize and interpret key institutional data from 2RU. The objective was to demonstrate practical Tableau skills in data cleaning, dashboard design, and interactive storytelling using school-related datasets.
+This project showcases a Tableau dashboard developed to visualize and interpret key institutional data from 2RU. The objective was to demonstrate practical Tableau skills in data cleaning, dashboard design, and interactive storytelling using school-related datasets.
 
 ## 🎯 Project Overview
 The dashboard provides a high-level overview of information relevant to a school's internal metrics. It highlights categories such as academic programs, student counts, and other institutional features — offering a clear, engaging, and filterable view of the dataset for decision-making and presentations.
